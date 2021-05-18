@@ -38,7 +38,7 @@ public class NumberListTest {
 
     @Test
     public void canGetTotal(){
-       
+
         assertEquals(10, myNumbers.getTotal());
     }
 
